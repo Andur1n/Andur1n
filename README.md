@@ -19,10 +19,10 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 ---
 
 ## 📂 Projects / Labs
-- **💻 [Advent of Cyber Write-ups](#)** – CTF-style challenges and exercises  
-- **🟦 [Blue Room / THM Labs](#)** – Linux, networking, and security skills practice  
-- **🎄 [Raspberry Pi Advent Calendar](#)** – Python projects, automation, and network experiments  
-- **🖥 [Home Lab Setup](#)** – pfSense firewall, multiple VMs, Pi-hole, and testing environments  
+- **💻 [Advent of Cyber Write-ups](ttps://github.com/Andur1n/Advent-of-Cyber---2025)** – CTF-style challenges and exercises  
+- **🟦 [Blue Room / THM Labs](https://github.com/Andur1n/TryHackMe-HackTheBox-Rooms)** – Linux, networking, and security skills practice  
+- **🎄 [Raspberry Pi Advent Calendar](https://github.com/Andur1n/RaspberryPI-Advent-Calendar)** – Python projects, automation, and network experiments  
+- **🖥 [Home Lab Setup](#)** – pfSense firewall, multiple VMs, Pi-hole, and testing environments - Upcoming
 
 *See pinned repos for full details and write-ups.*
 
