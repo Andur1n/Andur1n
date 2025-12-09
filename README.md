@@ -29,6 +29,7 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 ---
 
 ## 📜 Certifications / In Progress
+- 🎓 AZ-900 - Azure Fundamentals  - ✅
 - 🎓 Google Cybersecurity  - ✅
 - 🎓 CompTIA Net+  
 - 🎓 CompTIA Sec+  
