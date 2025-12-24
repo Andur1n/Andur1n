@@ -12,53 +12,11 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 
 ## 🛠 Skills & Tools
 
-<table align="center" border="1" cellpadding="10" cellspacing="0">
-  <!-- ===== OS ===== -->
-  <tr>
-    <th align="left">OS</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" height="40"/>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" height="40"/>
-    </td>
-  </tr>
+## 🧠 Skills
 
-  <!-- ===== Linux ===== -->
-  <tr>
-    <th align="left">Linux</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" height="40"/>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" height="40"/>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberry Pi OS" height="40"/>
-    </td>
-  </tr>
-
-  <!-- ===== Languages ===== -->
-  <tr>
-    <th align="left">Languages</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" height="40"/>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" height="40"/>
-    </td>
-  </tr>
-
-  <!-- ===== Databases ===== -->
-  <tr>
-    <th align="left">Databases</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" height="40"/>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" height="40"/>
-    </td>
-  </tr>
-
-  <!-- ===== IDEs ===== -->
-  <tr>
-    <th align="left">IDEs</th>
-    <td>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" height="40"/>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" height="40"/>
-    </td>
-  </tr>
-</table>
+| OS | Linux | Languages | Databases | IDEs |
+|----|-------|-----------|-----------|------|
+| <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" height="40"/><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" height="40"/> | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" height="40"/><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" height="40"/><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" height="40"/> | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="40"/><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" height="40"/> | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="40"/><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" height="40"/> | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="40"/><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" height="40"/> |
 
 ---
 
