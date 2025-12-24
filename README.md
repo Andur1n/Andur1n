@@ -11,17 +11,61 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 ---
 
 ## 🛠 Skills & Tools
-| Programming | OS / Shells | Networking | Security / Labs | Version Control |
-|------------|-------------|------------|----------------|----------------|
-| ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white) | ![Bash](https://img.shields.io/badge/Linux-Bash-orange?style=flat-square&logo=linux&logoColor=white) | ![Networking](https://img.shields.io/badge/Networking-TCP/IP-blue?style=flat-square&logo=IEEE) | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CTF-red?style=flat-square&logo=hackthebox&logoColor=white) | ![Git](https://img.shields.io/badge/Git-version%20control-red?style=flat-square&logo=git&logoColor=white) |
-| ![PowerShell](https://img.shields.io/badge/PowerShell-automation-blue?style=flat-square&logo=powershell&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Linux-Kali%20Linux-blue?style=flat-square&logo=Kali-Linux&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-database-lightgrey?style=flat-square&logo=mysql&logoColor=white) | ![TryHackMe](https://img.shields.io/badge/TryHackMe-learning-purple?style=flat-square&logo=tryhackme&logoColor=white) |  |
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <!-- ===== OS ===== -->
+  <tr>
+    <th align="left">OS</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" height="40"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" height="40"/>
+    </td>
+  </tr>
+
+  <!-- ===== Linux ===== -->
+  <tr>
+    <th align="left">Linux</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" height="40"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" height="40"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberry Pi OS" height="40"/>
+    </td>
+  </tr>
+
+  <!-- ===== Languages ===== -->
+  <tr>
+    <th align="left">Languages</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" height="40"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" height="40"/>
+    </td>
+  </tr>
+
+  <!-- ===== Databases ===== -->
+  <tr>
+    <th align="left">Databases</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" height="40"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" height="40"/>
+    </td>
+  </tr>
+
+  <!-- ===== IDEs ===== -->
+  <tr>
+    <th align="left">IDEs</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" height="40"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" height="40"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📂 Projects / Labs
 - **💻 [Advent of Cyber Write-ups](https://github.com/Andur1n/Advent-of-Cyber---2025)** – CTF-style challenges and exercises  
-- **🟦 [Blue Room / THM Labs](https://github.com/Andur1n/TryHackMe-HackTheBox-Rooms)** – Linux, networking, and security skills practice  
-- **🎄 [Raspberry Pi Advent Calendar](https://github.com/Andur1n/RaspberryPI-Advent-Calendar)** – Python projects, automation, and microcontroller experiments  
+- **🟦 [HTB/THM Labs](https://github.com/Andur1n/TryHackMe-HackTheBox-Rooms)** – All individual boxes for HackTheBox and TryHackMe
+- **🎄 [Raspberry Pi Advent Calendar](https://github.com/Andur1n/RaspberryPI-Advent-Calendar)** – PiHut Advent Calendar mini project using MicroPython 
 - **🖥 [Home Lab Setup](#)** – pfSense firewall, multiple VMs, Pi-hole, and testing environments - Coming Soon™
 
 *See pinned repos for full details and write-ups.*
@@ -43,4 +87,4 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 
 ---
 
-*✨ Consistency without obsession – always learning, always experimenting.*
+*✨ "Driven by curiosity. Sustained by persistence.*
