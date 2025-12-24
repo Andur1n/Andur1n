@@ -14,23 +14,9 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 
 | OS | Linux | Languages | Databases | IDEs |
 |----|-------|-----------|-----------|------|
-| <div align="center">
-![Windows](https://img.shields.io/badge/Windows-OS-0078D6?style=flat-square&logo=windows&logoColor=white)<br>
-![macOS](https://img.shields.io/badge/macOS-OS-000000?style=flat-square&logo=apple&logoColor=white)
-</div> | <div align="center">
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)<br>
-![Kali](https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)<br>
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Linux-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-</div> | <div align="center">
-![Python](https://img.shields.io/badge/Python-Language-3776AB?style=flat-square&logo=python&logoColor=white)<br>
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-</div> | <div align="center">
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)<br>
-![MSSQL](https://img.shields.io/badge/MSSQL-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-</div> | <div align="center">
-![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)<br>
-![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?style=flat-square&logo=pycharm&logoColor=white)
-</div> |
+| ![Windows](https://img.shields.io/badge/Windows-OS-0078D6?style=flat-square&logo=windows&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![Python](https://img.shields.io/badge/Python-Language-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| ![macOS](https://img.shields.io/badge/macOS-OS-000000?style=flat-square&logo=apple&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![MSSQL](https://img.shields.io/badge/MSSQL-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?style=flat-square&logo=pycharm&logoColor=white) |
+|  | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Linux-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) |  |  |  |
 
 ---
 
