@@ -40,10 +40,4 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 
 ---
 
-## 📫 Contact
-- [LinkedIn](#)  
-- [Portfolio / Website](#)  
-
----
-
 *✨ "Driven by curiosity. Sustained by persistence.*
