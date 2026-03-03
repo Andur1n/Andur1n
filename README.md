@@ -24,7 +24,7 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 ## 📂 Projects / Labs
 - **💻 [Advent of Cyber Write-ups](https://github.com/Andur1n/Advent-of-Cyber---2025)** – CTF-style challenges and exercises  
 - **🟦 [HTB/THM Labs](https://github.com/Andur1n/TryHackMe-HackTheBox-Rooms)** – All individual boxes for HackTheBox and TryHackMe
-- **🎄 [Raspberry Pi Advent Calendar](https://github.com/Andur1n/RaspberryPI-Advent-Calendar)** – PiHut Advent Calendar mini project using MicroPython 
+- **🐍 [FreeCodeCamp Python Course](https://github.com/Andur1n/FreeCodeCamp---Python-Course)** – A collection for all my Python projects created during the course from FreeCodeCamp.
 - **🖥 [Home Lab Setup](https://github.com/Andur1n/Homelab/tree/main)** – pfSense firewall, multiple VMs, Pi-hole, and testing environments.
 
 *See pinned repos for full details and write-ups.*
@@ -40,4 +40,4 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 
 ---
 
-*✨ "Driven by curiosity. Sustained by persistence.*
+*✨ "Never accept the world as it appears to be, dare to see it for what it could be.*
