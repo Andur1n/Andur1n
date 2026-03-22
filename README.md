@@ -6,7 +6,7 @@
 
 ## 📝 About Me
 
-Servicedesk Engineer with a solid background in 1st/2nd line support, hardware, and systems — the kind of stuff where you don’t just fix problems, you actually figure out why they broke in the first place.
+Servicedesk Engineer with a solid background in 1st/2nd line support, hardware, and systems.
 
 Right now I’m focused on levelling up in cybersecurity, networking, programming, and Linux. Most of that comes from hands-on labs, certifications, and messing around with my own projects until things click (or break…).
 
