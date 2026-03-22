@@ -1,23 +1,21 @@
 # 👋 Hi, I’m Andur1n
 
-**Aspiring Cybersecurity Specialist | Linux Enthusiast | Home Lab Explorer**
+**1st/2nd Line Support Engineer | Cybersecurity Enthusiast | Linux Enjoyer | Homelab Explorer |
 
 ---
 
 ## 📝 About Me
-I come from a strong technical background with experience in hardware engineering, service desk, and system support.  
-Currently building hands-on skills in cybersecurity, networking, and Linux through labs, certifications, and personal projects.  
+
+Servicedesk Engineer with a solid background in 1st/2nd line support, hardware, and systems — the kind of stuff where you don’t just fix problems, you actually figure out why they broke in the first place.
+
+Right now I’m focused on levelling up in cybersecurity, networking, programming, and Linux. Most of that comes from hands-on labs, certifications, and messing around with my own projects until things click (or break…).
+
+Big on practical learning, real-world skills, and actually understanding how things work under the hood — not just ticking boxes.
 
 ---
 
-## 🛠 Skills & Tools
-
-| OS | Linux | Languages | Databases | IDEs |
-|:--:|:-----:|:--------:|:--------:|:---:|
-| ![Windows](https://img.shields.io/badge/Windows-OS-0078D6?style=flat-square&logo=windows&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![Python](https://img.shields.io/badge/Python-Language-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| ![macOS](https://img.shields.io/badge/macOS-OS-000000?style=flat-square&logo=apple&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![MSSQL](https://img.shields.io/badge/MSSQL-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?style=flat-square&logo=pycharm&logoColor=white) |
-|  | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Linux-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-Language-012456?style=flat-square&logo=powershell&logoColor=white) |  |  |
-
+## 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
@@ -29,14 +27,13 @@ Currently building hands-on skills in cybersecurity, networking, and Linux throu
 
 *See pinned repos for full details and write-ups.*
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andur1n&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
 
-## 📜 Certifications / In Progress
-- 🎓 AZ-900 - Azure Fundamentals  - ✅
-- 🎓 Google Cybersecurity  - ✅
-- 🎓 CompTIA Net+  - ✅
-- 🎓 CompTIA Sec+  
-- 🎓 Hack The Box Junior Cybersecurity Certificate  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dennis-waldschmit-4907473b7/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Andur1n) 
 
 ---
 
