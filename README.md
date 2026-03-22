@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Andur1n
 
-**1st/2nd Line Support Engineer | Cybersecurity Enthusiast | Linux Enjoyer | Homelab Explorer |
+**1st/2nd Line Support Engineer | Cybersecurity Enthusiast | Linux Enjoyer | Homelab Explorer |**
 
 ---
 
@@ -15,7 +15,7 @@ Big on practical learning, real-world skills, and actually understanding how thi
 ---
 
 ## 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
